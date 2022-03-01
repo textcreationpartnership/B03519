@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Southwark; or, The old womans legacy to her cat. Giving an account of an old miserable woman, who lately kept a blind ale-house, in St. Tooley-street, near the burrough of Southwark; who was so wretchedly covetous, as to deny her self the common benefits of life, as to meat and cloaths; leaving, at her death, about eighteen hundred pounds, to her cat; rising to say often, when the cat mew'd, peace Puss, peace; thou shalt have all, when I am dead. To the tune of, The bleeding heart, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03519</idno>
+            <idno type="STC">Wing G1731</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[204]</idno>
+            <idno type="EEBO-CITATION">99886967</idno>
+            <idno type="PROQUEST">ocm99886967</idno>
+            <idno type="VID">181528</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181528)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[206])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Southwark; or, The old womans legacy to her cat. Giving an account of an old miserable woman, who lately kept a blind ale-house, in St. Tooley-street, near the burrough of Southwark; who was so wretchedly covetous, as to deny her self the common benefits of life, as to meat and cloaths; leaving, at her death, about eighteen hundred pounds, to her cat; rising to say often, when the cat mew'd, peace Puss, peace; thou shalt have all, when I am dead. To the tune of, The bleeding heart, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Read,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "In Southwark, there did lately dwell".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181528:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <hi>Great News from Southwark:</hi> OR, THE <hi>Old Womans Legacy to her Cat.</hi>
+            </head>
+            <argument>
+               <p>GIVING An Account of an Old Miſerable Woman, who lately Kept a Blind Ale-Houſe, in St. <hi>Tooley</hi>-Street, near the Burrough of <hi>Southwark;</hi> who was ſo wretchedly Covetous, as to deny her ſelf the Common Benefits of Life, as to Meat and Cloaths; leaving, at her Death, about Eighteen Hundred Pounds, to her CAT; uſing to ſay often, when the CAT Mew'd,
+<q>Peace <hi>PUSS,</hi> peace; Thou ſhalt have All, when I am Dead.</q>
+               </p>
+            </argument>
+            <opener>To the Tune of, <hi>The Bleeding Heart,</hi> &amp;c.</opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>In <hi>Southwark,</hi> there did lately dwell</l>
+               <l>A Rich old Woman, noted well:</l>
+               <l>An Ale-Houſe-keeper, by her Trade;</l>
+               <l>She liv'd alone, and had no Maid.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>For, very Poor ſhe ſeem'd to be,</l>
+               <l>And was maintain'd by <hi>Charity</hi>
+               </l>
+               <l>Her Family was very ſmall;</l>
+               <l>A CAT ſhe kept, and that was all.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No Food her ſelf ſhe would afford,</l>
+               <l>But what came from her Neighbours Board:</l>
+               <l>But for her CAT, ſhe Meat would buy,</l>
+               <l>And feed her, ay! moſt daintily.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>She liv'd ſo cloſe, and far'd ſo hard,</l>
+               <l>That ſhe her ſelf had well nigh ſtarv'd:</l>
+               <l>No Cloaths or Victuals would ſhe buy,</l>
+               <l>But feed her CAT moſt daintily.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>She heaped up her Bags in Store,</l>
+               <l>And pincht her Guts, to lay up more:</l>
+               <l>Tho' ſhe as Lean as Rake, did grow,</l>
+               <l>Her CAT was Plump, as any Doe.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Her Belly-Money up ſhe laid,</l>
+               <l>Until an handſome Summ it made:</l>
+               <l>Her Guttage Money it was found</l>
+               <l>To be nigh Eighteen Hundred Pound.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>For Death, at length, began to creep,</l>
+               <l>And Rock the Rich Old Crone aſleep:</l>
+               <l>Aſleep ſhe lay, to Death confin'd,</l>
+               <l>And left her CAT, and Wealth, behind.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>A Day, or Two, did ſcarcely paſs,</l>
+               <l>When by her Neighbours miſt ſhe was:</l>
+               <l>Who marvell'd greatly, that ſhe ſtay'd,</l>
+               <l>And came not for her Daily Bread.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Among the Reſt, One went to ſee,</l>
+               <l>What the Occaſion there might be:</l>
+               <l>But when that he came in the Houſe,</l>
+               <l>He found all ſtill, as any Mouſe.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Up Stairs he went, and in the Bed</l>
+               <l>He found the Rich Old Woman dead:</l>
+               <l>And, looking in a Trunk juſt by,</l>
+               <l>Near Eighteen Hundred Pounds did lie.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>No ſooner he had found the Hoard,</l>
+               <l>But he divulg'd it all abroad:</l>
+               <l>Then flockt the Neighbours, to behold</l>
+               <l>The Treaſur'd Bags of Coyned Gold.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Thus did ſhe cheat and baffle ſuch,</l>
+               <l>As thought her Poor: for ſhe was Rich:</l>
+               <l>Her Belly ſav'd it for her CAT,</l>
+               <l>But PUSS muſt ſhew the WILL for that</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Read,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
